@@ -44,4 +44,4 @@ streamlit run app.py
 - ratings_small.csv - оценки пользователей
 - links.csv - связи между различными ID фильмов
 
-<img src="web.jpg" alt="Лого" width="80%">
+<img src="web.jpg" alt="Лого" width="100%">
