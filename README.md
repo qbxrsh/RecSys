@@ -47,4 +47,4 @@ streamlit run WebService.py
 - links.csv - связи между различными ID фильмов
 
 ## Скриншот интерфейса
-<img src="web.jpb" alt="Демонстрация работы" width="800">
+<img src="web.jpg" alt="Демонстрация работы" width="800">
