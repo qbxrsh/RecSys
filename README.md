@@ -45,3 +45,6 @@ streamlit run WebService.py
 - keywords.csv - ключевые слова фильмов
 - ratings_small.csv - оценки пользователей
 - links.csv - связи между различными ID фильмов
+
+## Скриншот интерфейса
+<img src="web.jpb" alt="Демонстрация работы" width="800">
